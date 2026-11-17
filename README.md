@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/zakarya0roua -->
 
 <p align="center">
-  <img src="./img/D%C3%A9veloppeur%20Full-stack.png" width="100%" alt="Zakarya Roua — Junior Full Stack Developer" />
+  <img src="./img/Développeur-Full-stack.png" width="100%" alt="Zakarya Roua — Junior Full Stack Developer" />
 </p>
 
 <h1 align="center">Hi, I'm Zakarya 👋</h1>
