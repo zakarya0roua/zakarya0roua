@@ -1,26 +1,7 @@
-<!-- Profile README for github.com/zakarya0roua -->
 
 <p align="center">
   <img src="./img/Développeur-Full-stack.png" width="100%" alt="Zakarya Roua — Junior Full Stack Developer" />
 </p>
-
-<h1 align="center">Hi, I'm Zakarya 👋</h1>
-
-<h3 align="center">Junior Full Stack Developer · YouCode</h3>
-
-<p align="center">
-  Turning ideas into real-world applications.
-  <br />
-  <strong>Open to Web Development Internship Opportunities</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zakarya-roua-40542a441/">LinkedIn</a>
-  ·
-  <a href="https://github.com/zakarya0roua">GitHub</a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -31,12 +12,6 @@ I'm Zakarya, a Junior Full Stack Developer currently studying **Full Stack Web D
 - 📍 **Location:** Nador, Morocco
 - 🌱 **Current focus:** JavaScript, APIs, DOM manipulation, and responsive interfaces
 - 🗣️ **Languages:** Arabic (Native), French (Beginner), English (Beginner)
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,tailwind,nodejs,c,git,github&theme=dark" alt="HTML, JavaScript, Tailwind CSS, Node.js, C, Git and GitHub" />
-</p>
 
 ## 🚀 Featured Projects
 
